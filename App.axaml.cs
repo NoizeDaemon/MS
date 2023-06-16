@@ -17,7 +17,7 @@ public partial class App : Application
 
     public override void OnFrameworkInitializationCompleted()
     {
-        Themes.Change(Themes.CustomDark);
+        Themes.Change(Themes.PinkGoodness);
 
         if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
         {

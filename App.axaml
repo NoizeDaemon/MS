@@ -14,11 +14,13 @@
   
     <Application.Styles>
 
-		<FluentTheme />
+		<!--<FluentTheme />-->
 		
-		<themes:MaterialTheme />
+		<themes:MaterialThemeBase />
 		<icons:MaterialIconStyles />
 		<styles:MaterialToolKit />
+
+		
 		
     </Application.Styles>
 </Application>
