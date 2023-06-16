@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget-feed-nightly.avaloniaui.net/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -46,23 +47,23 @@
           "dependencies": {
             "Avalonia": {
               "target": "Package",
-              "version": "[11.0.0-rc1.1, )"
+              "version": "[11.0.999-cibuild0036707-beta, )"
             },
             "Avalonia.Desktop": {
               "target": "Package",
-              "version": "[11.0.0-rc1.1, )"
+              "version": "[11.0.999-cibuild0036707-beta, )"
             },
             "Avalonia.Diagnostics": {
               "target": "Package",
-              "version": "[11.0.0-rc1.1, )"
+              "version": "[11.0.999-cibuild0036707-beta, )"
             },
             "Avalonia.Fonts.Inter": {
               "target": "Package",
-              "version": "[11.0.0-rc1.1, )"
+              "version": "[11.0.999-cibuild0036707-beta, )"
             },
             "Avalonia.Themes.Fluent": {
               "target": "Package",
-              "version": "[11.0.0-rc1.1, )"
+              "version": "[11.0.999-cibuild0036707-beta, )"
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",

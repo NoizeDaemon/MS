@@ -16,7 +16,7 @@
 
 		<FluentTheme />
 		
-		<themes:MaterialThemeBase />
+		<themes:MaterialTheme />
 		<icons:MaterialIconStyles />
 		<styles:MaterialToolKit />
 		
